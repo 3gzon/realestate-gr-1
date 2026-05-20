@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "fullName": "test",
+      "id": "daUk4W4menI"
+    },
+    {
+      "fullName": "test",
+      "id": "otGsSRAwouQ"
+    },
+    {
+      "fullName": "test",
+      "id": "P7jrhUZ8tg0"
+    },
+    {
+      "fullName": "test",
+      "id": "C87yZJnRWio"
+    },
+    {
+      "fullName": "test 124",
+      "id": "S6XPMTgi6ZM"
+    },
+    {
+      "fullName": "register",
+      "id": "xAAy2uL2g_Q"
+    },
+    {
+      "fullName": "last register",
+      "id": "mCFgARLf1Lw"
+    },
+    {
+      "fullName": "last one",
+      "email": "test@test.com",
+      "id": "LU6Yixn1bxw"
+    },
+    {
+      "fullName": "test",
+      "email": "test@tets.com",
+      "password": "12313",
+      "id": "L7iapW_92sc"
+    },
+    {
+      "fullName": "test123",
+      "email": "test1@gmail.com",
+      "password": "test123",
+      "id": "g-8-MA4XCHc"
+    }
+  ],
+  "properties":[
+    {
+      "id":1,
+      "title":"modern appartment",
+      "description":"beautiful",
+      "price":30000,
+      "location":"vushtrri",
+      "type":"Home",
+      "bedrooms":3,
+      "bathrooms":2,
+      "area":120,
+      "image":"https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&h=600&fit=crop",
+      "ownerId":1,
+      "createAt":"2026-05-18"
+    },
+    {
+      "id":2,
+      "title":"modern appartment",
+      "description":"beautiful",
+      "price":30000,
+      "location":"vushtrri",
+      "type":"Villa",
+      "bedrooms":3,
+      "bathrooms":2,
+      "area":120,
+      "image":"https://unsplash.com/photos/a-house-with-a-blue-front-door-and-a-brown-front-door-xaqsFfoEq3o",
+      "ownerId":2,
+      "createAt":"2026-05-18"
+    }
+  ],
+
+  "$schema": "./node_modules/json-server/schema.json"
+}
