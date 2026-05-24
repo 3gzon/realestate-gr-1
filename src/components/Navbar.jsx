@@ -11,7 +11,7 @@ function Navbar() {
       fetch(`${baseUrl}/users/${userId}`)
         .then((response) => response.json())
         .then((data)=>setUser(data))
-    }
+    } 
   }, [])
   
   const handleLogOut = () => {
