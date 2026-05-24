@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom'
 import { getPropertyById } from '../services/properties';
 
 function PropertyDetails() {
+    
     const { id } = useParams();
     const [property, setProperty] = useState(null);
     const [loading, setLoading] = useState(true);

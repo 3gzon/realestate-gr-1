@@ -50,6 +50,12 @@
       "email": "test@test.com",
       "password": "test1234",
       "id": "91JJpDIFVKc"
+    },
+    {
+      "fullName": "",
+      "email": "tesT@test.com",
+      "password": "test1234",
+      "id": "7nqWqGN_SnU"
     }
   ],
   "properties": [
