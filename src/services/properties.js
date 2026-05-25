@@ -23,5 +23,5 @@ export function createProperty(property) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(property)
-    }).then((response) =>response.json)
+    }).then((response) => response.json())
 }
